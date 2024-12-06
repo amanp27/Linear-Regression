@@ -14,8 +14,8 @@ Example: Predicting salary based on CGPA.
 Uses multiple features to predict a target variable. 📈
 Example: Predicting house prices based on size, location, and number of bedrooms.
 
-. 📖 Features of This Repository
-. 📂 Organized Structure: Separate folders for Simple and Multiple Linear Regression.
+* 📖 Features of This Repository
+📂 Organized Structure: Separate folders for Simple and Multiple Linear Regression.
 🧠 Interactive Content: Visuals, GIFs, and real-world examples.
 🛠️ Hands-On Projects:
 Simple Linear Regression: Salary Prediction Based on CGPA.
