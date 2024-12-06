@@ -1,4 +1,4 @@
-🌟 Linear Regression 🚀
+### 🌟 Linear Regression 🚀
 
 Welcome to the Linear Regression repository! 🎉 This is your go-to guide to understanding and implementing one of the most fundamental algorithms in machine learning.
 
