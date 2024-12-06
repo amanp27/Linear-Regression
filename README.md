@@ -19,6 +19,7 @@ Example: Predicting house prices based on size, location, and number of bedrooms
 * 🧠 Interactive Content: Visuals, GIFs, and real-world examples.
 
 🛠️ Hands-On Projects:
+
 Simple Linear Regression: Salary Prediction Based on CGPA.
 Multiple Linear Regression: House Price Prediction.
 
