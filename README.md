@@ -1,16 +1,7 @@
-# Linear-Regression
+🌟 Linear Regression 🚀
 
-Linear_Regression/
-├── Simple_Linear_Regression/  
-│   ├── README.md  
-│   ├── salary_prediction/  
-│   │   ├── data/  
-│   │   ├── notebooks/  
-│   │   └── src/  
-├── Multiple_Linear_Regression/  
-│   ├── README.md  
-│   ├── house_price_prediction/  
-│   │   ├── data/  
-│   │   ├── notebooks/  
-│   │   └── src/  
-└── LICENSE  
+Welcome to the Linear Regression repository! 🎉 This is your go-to guide to understanding and implementing one of the most fundamental algorithms in machine learning.
+
+Whether you're starting with Simple Linear Regression or diving into Multiple Linear Regression, this repository has got you covered with hands-on projects, visuals, and detailed explanations.
+
+![Simple Linear Regression](assets/linear_regression_example.png)
