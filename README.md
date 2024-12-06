@@ -15,18 +15,32 @@ Uses multiple features to predict a target variable. 📈
 Example: Predicting house prices based on size, location, and number of bedrooms.
 
 * 📖 Features of This Repository
-📂 Organized Structure: Separate folders for Simple and Multiple Linear Regression.
-🧠 Interactive Content: Visuals, GIFs, and real-world examples.
+* 📂 Organized Structure: Separate folders for Simple and Multiple Linear Regression.
+* 🧠 Interactive Content: Visuals, GIFs, and real-world examples.
+
 🛠️ Hands-On Projects:
 Simple Linear Regression: Salary Prediction Based on CGPA.
 Multiple Linear Regression: House Price Prediction.
-📊 Detailed Visualizations: Understand regression with graphs and plots.
-📜 Code + Documentation: Clean and modular code with explanations.
+
+* 📊 Detailed Visualizations: Understand regression with graphs and plots.
+* 📜 Code + Documentation: Clean and modular code with explanations.
 
 
 🎯 Why Learn Linear Regression?
 Linear Regression is not just an algorithm; it's a stepping stone to mastering machine learning. It helps you:
 
-Understand the relationship between features and targets.
-Interpret coefficients to draw meaningful insights.
-Build baseline models for regression tasks.
+* Understand the relationship between features and targets.
+* Interpret coefficients to draw meaningful insights.
+* Build baseline models for regression tasks.
+
+🛠 Tools and Libraries Used
+
+* Python
+* NumPy, Pandas for data handling.
+* Matplotlib, Seaborn for visualization.
+* Scikit-learn for model building.
+
+📌 Contribute:
+Have ideas or suggestions? Open an issue or create a pull request. Let’s grow together! 😊
+
+
