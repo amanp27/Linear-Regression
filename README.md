@@ -41,6 +41,7 @@ Linear Regression is not just an algorithm; it's a stepping stone to mastering m
 * Scikit-learn for model building.
 
 📌 Contribute:
+
 Have ideas or suggestions? Open an issue or create a pull request. Let’s grow together! 😊
 
 
