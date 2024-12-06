@@ -27,11 +27,23 @@ Multiple Linear Regression: House Price Prediction.
 
 
 🎯 Why Learn Linear Regression?
+
 Linear Regression is not just an algorithm; it's a stepping stone to mastering machine learning. It helps you:
 
 * Understand the relationship between features and targets.
 * Interpret coefficients to draw meaningful insights.
 * Build baseline models for regression tasks.
+
+🌟 Visualize the Flow
+
+* The model fits a line that minimizes the error between predicted and actual values.
+* Visualization tools like Matplotlib and Seaborn are used to illustrate the relationship.
+
+📝 Next Steps
+
+* ✅ Start with Simple Linear Regression.
+* 🚀 Progress to Multiple Linear Regression.
+* 📈 Extend to Polynomial Regression in the future!
 
 🛠 Tools and Libraries Used
 
