@@ -1,4 +1,4 @@
-### **🏡 Housing Price Prediction - A Learning Case Study**
+### **🏡 Housing Price Prediction - A Learning Case Study - I**
 
 Welcome to my Housing Price Prediction case study! In this project, I predicted house prices based on various features using Multiple Linear Regression (MLR). The dataset contains information like the area of the house, the number of bedrooms and bathrooms, and other attributes like air conditioning, main road access, and more.
 
@@ -16,5 +16,9 @@ The key steps I followed are:
 * Model Evaluation: Evaluating the model with metrics like MAE, MSE, RMSE, and R² Score
 
 ### 🏗️ Model Building
+
+Multiple Linear Regression (MLR)
+
+I trained the model using the LinearRegression class from Scikit-learn. The model was fitted on the data to learn the relationship between the features and the target (price).
 
 
