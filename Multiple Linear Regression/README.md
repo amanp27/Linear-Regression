@@ -22,3 +22,6 @@ Multiple Linear Regression (MLR)
 I trained the model using the LinearRegression class from Scikit-learn. The model was fitted on the data to learn the relationship between the features and the target (price).
 
 
+# Insurance Dataset Case Study II 🏥📊
+
+
