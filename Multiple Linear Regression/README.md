@@ -28,3 +28,13 @@ Explore, Analyze, and Predict!
 
 Welcome to the Insurance Dataset Case Study II, where I deep-dive into the world of health insurance analytics to extract actionable insights and build a predictive model using Multiple Linear Regression (MLR). This project is part of my journey to master the art of data-driven decision-making.
 
+### 📌 Top Influencing Features:
+
+The most significant predictors based on their absolute coefficient values:
+
+* smoker_yes: 23651.13 ➡️ Smoking has the largest positive impact on charges.
+* age: 3609.15 ➡️ Older individuals tend to pay higher premiums.
+* bmi: 2054.88 ➡️ Higher BMI increases charges.
+
+### Key Learnings
+* Improved understanding of the significance of feature engineering and scaling.
