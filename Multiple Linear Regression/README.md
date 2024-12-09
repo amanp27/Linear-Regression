@@ -1,4 +1,4 @@
-### **🏡 Housing Price Prediction - A Learning Case Study - I**
+# **🏡 Housing Price Prediction - A Learning Case Study - I**
 
 Welcome to my Housing Price Prediction case study! In this project, I predicted house prices based on various features using Multiple Linear Regression (MLR). The dataset contains information like the area of the house, the number of bedrooms and bathrooms, and other attributes like air conditioning, main road access, and more.
 
@@ -24,4 +24,7 @@ I trained the model using the LinearRegression class from Scikit-learn. The mode
 
 # Insurance Dataset Case Study II 🏥📊
 
+Explore, Analyze, and Predict!
+
+Welcome to the Insurance Dataset Case Study II, where I deep-dive into the world of health insurance analytics to extract actionable insights and build a predictive model using Multiple Linear Regression (MLR). This project is part of my journey to master the art of data-driven decision-making.
 
