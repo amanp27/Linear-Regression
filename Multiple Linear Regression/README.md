@@ -28,6 +28,10 @@ Explore, Analyze, and Predict!
 
 Welcome to the Insurance Dataset Case Study II, where I deep-dive into the world of health insurance analytics to extract actionable insights and build a predictive model using Multiple Linear Regression (MLR). This project is part of my journey to master the art of data-driven decision-making.
 
+### Key Objectives
+* Understand relationships between features and insurance charges.
+* Interpret coefficients to identify impactful variables.
+
 ### 📌 Top Influencing Features:
 
 The most significant predictors based on their absolute coefficient values:
