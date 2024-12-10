@@ -15,7 +15,10 @@ Uses multiple features to predict a target variable. 📈
 Example: Predicting house prices based on size, location, and number of bedrooms.
 
 * 📖 Features of This Repository
-* 📂 Organized Structure: Separate folders for Simple and Multiple Linear Regression, Loss Function and Gradient Descent.
+* 📂 Organized Structure: Separate folders for-
+    * Simple and Multiple Linear Regression
+    * Loss Function
+    * Gradient Descent.
 * 🧠 Interactive Content: Visuals, GIFs, and real-world examples.
 
 🛠️ Hands-On Projects:
