@@ -3,8 +3,8 @@
 An essential guide to making machines learn from their mistakes!
 
 ## ✨ What is a Loss Function?
-
-A loss function measures how far the predicted values are from the actual ones. It plays a vital role in guiding the model during training by providing feedback on its performance.
+* A loss function also called as cost function is a mathmethical function that measures how far the predicted values are from the actual ones in a Machine Learning model.
+* The aim of training the Machine Learning model is to minimize the values of Loss Function, which corrresponds improving the models performance on the given task.
 
 ### Why is it important?
 * Guides the optimization process (e.g., Gradient Descent).
