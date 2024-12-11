@@ -11,6 +11,8 @@ Gradient Descent is one of the most fundamental algorithms in machine learning a
 2. Optimization: Helps minimize errors by finding the optimal weights and biases for the model.
 3. Scalability: Works effectively for both small datasets and large-scale problems.
 
+![image](https://github.com/user-attachments/assets/2fc94130-d67f-42be-8bf8-ec8733f5d32f)
+
 ## ⚙️ How Gradient Descent Works
 
 Gradient Descent adjusts the model parameters (weights, biases) using the following formula:
