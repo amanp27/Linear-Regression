@@ -31,6 +31,9 @@ Multicollinearity happens when independent variables are interdependent, creatin
 ### Regularization Techniques
 * Use Ridge Regression or Lasso Regression to reduce multicollinearity's impact by penalizing large coefficients.
 
+![image](https://github.com/user-attachments/assets/b39056b3-01f7-44b0-bf57-8c3ad360c939)
+
+
 ## 📈 Key Takeaways
 * Multicollinearity distorts regression results.
 * VIF and correlation matrices are your best friends for detection.
