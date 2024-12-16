@@ -35,5 +35,16 @@ Multicollinearity happens when independent variables are interdependent, creatin
 * Multicollinearity distorts regression results.
 * VIF and correlation matrices are your best friends for detection.
 * Solving multicollinearity ensures accurate, interpretable models.
+* Multicollinearity inflates standard errors, making coefficient estimates unreliable.
+* Techniques like dropping features, combining features, and using regularization can mitigate its effects.
+* The Boston Housing dataset is a practical example for studying and resolving multicollinearity in real-world datasets.
 
+## Other Techniques
+* Combine Features
+* Use Regularization Techniques
+
+## Document Your Observations
+* Note which features exhibited high multicollinearity.
+* Explain how you addressed it (dropped features, combined, or used regularization).
+* Highlight the impact on the regression results.
 
